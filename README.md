@@ -1,3 +1,21 @@
+# react 설치
+
+0. nodejs와 vscode 설치
+1. 바탕화면 (원하는 폴더) 이동 cd desktop
+2. 리액트 프로젝트 생성 npx create-react-app 원하는 템플릿명
+3. 리액트 전용 sass 설치 npm i sass --save
+4. 프로젝트 폴더로 이동 cd 템플릿명
+5. vscode로 열기 code .
+6. 실행 npm start
+7. 리액트 라우터 5버전대 설치 npm i react-router-dom@5 --save
+8. 리액트 17버전으로 다운그레이드 npm i react@17 react-dom@17 --save
+
+# 단축키
+
+감싸고 싶은 코드 부분 드래그 후 ctrl+i 누르면 div로 감싸짐
+rfce : 일반함수 형태로 컴포넌트 생성
+rafce : 화살표함수 형태로 컴포넌트 생성
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
